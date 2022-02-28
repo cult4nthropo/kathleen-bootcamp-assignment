@@ -1,4 +1,4 @@
-package com.coderscampus;
+package com.coderscampus.prepcourse;
 
 public class BankAccount {
 	private double investment;
